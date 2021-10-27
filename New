@@ -1,0 +1,2 @@
+link= "https://github.com/MystiqueOP/Covid-19-India-Data/blob/main/Covid%20cases%20in%20India.xlsx"
+print(link.replace("github.com","raw.githubusercontent.com").replace("/blob/","/"))
